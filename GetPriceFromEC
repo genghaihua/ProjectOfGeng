@@ -1,0 +1,17 @@
+顺风优选 http://cart.sfbest.com/ajax/getproduct/?callback=jQuery000011112222333344445555_0000111122224&product_id=41948
+京东 http://p.3.cn/prices/mgets?type=1&skuIds=J_1039564685
+亚马逊可以直接爬取获取
+易迅可以直接爬取获取
+本来生活 可以直接爬取获取
+苏宁 http://www.suning.com/webapp/wcs/stores/ItemPrice/000000000127880169__9017_10106_1.html
+国美 http://g.gome.com.cn/ec/homeus/browse/store.jsp?callback=jQuery17105401424006558955_1440037138116&goodsNo=1000384182&sid=1116120051&pid=9127020025
+http://g.gome.com.cn/ec/homeus/browse/store.jsp?callback=jQuery17105401424006558955_1440037138116&goodsNo=100320260&sid=1122910354&pid=9133894748
+http://item.gome.com.cn/9133894748-1122910354.html
+goodsNo通过爬去获取 商品编号    
+sid 和pid分别为url后缀
+我买网  http://price.womai.com/PriceServer/price.do?id=10000019
+http://price.womai.com/PriceServer/open/productlist.do?ids=10119834&prices=buyPrice%2CmarketPrice%2CWMPrice%2CVIPPrice%2CsaveMoney%2CuserPoints%2CspecialPrice
+两个都可以
+
+
+
